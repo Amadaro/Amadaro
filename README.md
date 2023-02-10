@@ -2,7 +2,7 @@
 
 ### I'm Frontend Developrer
 
-### Languages and Tools
+### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
