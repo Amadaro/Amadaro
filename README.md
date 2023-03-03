@@ -10,6 +10,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
+![Axios](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=Axios)
+![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=Jest)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 
 ### Socials:
